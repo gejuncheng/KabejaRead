@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="KabejaRead:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="wuhu.war">
+      <element id="artifact" artifact-name="KabejaRead:war exploded" />
+    </root>
+  </artifact>
+</component>

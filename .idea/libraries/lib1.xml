@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../kabeja-0.4-src/kabeja-0.4/blocks/svg/lib/batik-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../kabeja-0.4-src/kabeja-0.4/blocks/svg/lib/xml-apis-ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../kabeja-0.4-src/kabeja-0.4/blocks/svg/lib/js.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../kabeja-0.4-src/kabeja-0.4/blocks/svg/lib/pdf-transcoder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../kabeja-0.4-src/kabeja-0.4/blocks/svg/lib/miethxml-toolkit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../kabeja-0.4-src/kabeja-0.4/blocks/svg/lib/xml-apis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="miethxml-ui">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../kabeja-0.4-src/kabeja-0.4/lib/miethxml-ui.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
